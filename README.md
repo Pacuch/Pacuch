@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Welcome+to+my+GitHub+page+😃)](https://git.io/typing-svg) 
 ##
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-patz-962a55206/)
+##
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pacuchh)
 <!--
 **Pacuch/Pacuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
