@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Welcome+to+my+GitHub+page+😃)](https://git.io/typing-svg) 
+
+<img align="left" alt="hat" width="26px" src="https://raw.githubusercontent.com/Pacuch/Pacuch/master/img/cap.png" />I’m interested in cybersecurity especially digital forensics.
 ### 🤝🏻 Connect, Follow
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-patz-962a55206/)
 ### Languages and Tools:
