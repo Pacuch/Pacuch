@@ -2,7 +2,7 @@
 
 <img align="left" alt="hat" width="26px" src="https://raw.githubusercontent.com/Pacuch/Pacuch/master/img/cap.png" />I’m interested in cybersecurity especially digital forensics.
 ### 🤝🏻 Connect, Follow
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-patz-962a55206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalpatz/)
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Pacuch/Pacuch/master/img/Python-logo-notext.svg.png" />][github]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/Pacuch/Pacuch/master/img/java.svg"/>][github]
